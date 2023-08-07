@@ -1,0 +1,63 @@
+{
+    "Data":[
+   {  
+       "id":1,
+       "name":"Fruits & Vegetables",
+       "a":"Fresh vegetables"  ,
+       "b": "Herbs & Seasonings",
+       "c":"Fresh Fruits",
+       "d":"Organic Fruits & Vegetables",
+       "e":"Cuts & Sprouts",
+       "f":"Exotic Fruits &Veggies",
+       "g":"Flower Bouquets, Bunches"
+       
+    }, 
+
+    {
+        "id":2,
+        "name":"Foodgrains, Oil & Masala"
+    },
+    {
+        "id":3,
+        "name":"Bakery, Cakes & Dairy"
+    },
+    {
+        "id":4,
+        "name":"Beverages"
+    },
+    {
+        "id":5,
+        "name":"Snacks & Branded Food"
+    },
+    {
+        "id":6,
+        "name":"Beauty & Hygiene"
+    },
+    {
+        "id":7,
+        "name":"Cleaning & Household"
+    },
+    {
+        "id":8,
+        "name":"Kitchen,Garden & pets"
+    },
+    {
+        "id":9,
+        "name":"Eggs,Meat & Fish"
+    },
+    {
+        "id":10,
+        "name":"Gourmet & World Food"
+    },
+    {
+        "id":11,
+        "name":"Baby Care"
+    },
+    {
+        "id":2,
+        "name":"View All"
+    }
+    ]
+}
+
+
